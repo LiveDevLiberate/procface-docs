@@ -1,7 +1,6 @@
 const config = {
   title: 'ProcFace',
   tagline: 'Embedded Linux procfs performance analysis',
-  favicon: 'img/favicon.ico',
   url: 'https://livedevliberate.github.io',
   baseUrl: '/procface-docs/',
   organizationName: 'LiveDevLiberate',
