@@ -1,3 +1,20 @@
-:root { --ifm-color-primary: #245b83; --ifm-color-primary-dark: #1e4d6f; }
-.hero { padding: 3rem 0; }
-code { font-size: 0.9em; }
+:root {
+  --ifm-color-primary: #17645f;
+  --ifm-color-primary-dark: #145751;
+  --ifm-color-primary-darker: #124e49;
+  --ifm-color-primary-darkest: #0e403c;
+  --ifm-color-primary-light: #24766f;
+  --ifm-color-primary-lighter: #2a8179;
+  --ifm-color-primary-lightest: #3b948b;
+  --ifm-heading-color: #102b3b;
+  --ifm-link-hover-color: #124e49;
+  --ifm-code-font-size: 90%;
+}
+
+.navbar { border-bottom: 1px solid #d8e0e6; box-shadow: none; }
+.menu__link { border-radius: 2px; }
+.markdown h1:first-child { font-size: 2rem; }
+.markdown h2 { margin-top: 2.25rem; padding-bottom: 0.35rem; border-bottom: 1px solid #d8e0e6; }
+.markdown table { display: table; width: 100%; }
+.markdown th { background: #f1f5f4; }
+.footer { font-size: 0.85rem; }

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "ProcFace",
+    "description": "The title in the navbar"
+  },
+  "item.label.文档": {
+    "message": "Documentation",
+    "description": "Navbar item with label 文档"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
